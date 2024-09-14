@@ -5,6 +5,15 @@
 
 ---
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajVerma97&show_icons=true&locale=en&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajVerma97&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajVerma97&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
@@ -27,26 +36,17 @@
 
 ### 🎵 Favorite Spotify Tracks:
 <p align="center">
-  <a href="https://open.spotify.com/track/1dfA3d0cJYq8Z5A9knVpKM">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Ed_Sheeran_Perfect_Single_cover.jpg/220px-Ed_Sheeran_Perfect_Single_cover.jpg" alt="Perfect by Ed Sheeran" width="200" height="200"/>
-    <br>
+  <a href="https://open.spotify.com/track/1dfA3d0cJYq8Z5A9knVpKM" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Ed_Sheeran_Perfect_Single_cover.jpg/220px-Ed_Sheeran_Perfect_Single_cover.jpg" alt="Perfect by Ed Sheeran" width="200" height="200" />
+    <br />
     <strong>Perfect</strong> by Ed Sheeran
   </a>
   <br><br>
-  <a href="https://open.spotify.com/track/1GrMSlJ91VGigQ5rU6J1o0">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/3e/Justin_Bieber_-_Company_%28Official_Single_Cover%29.png" alt="Company by Justin Bieber" width="200" height="200"/>
-    <br>
+  <a href="https://open.spotify.com/track/1GrMSlJ91VGigQ5rU6J1o0" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/3e/Justin_Bieber_-_Company_%28Official_Single_Cover%29.png" alt="Company by Justin Bieber" width="200" height="200" />
+    <br />
     <strong>Company</strong> by Justin Bieber
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajVerma97&show_icons=true&locale=en&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajVerma97&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajVerma97&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
