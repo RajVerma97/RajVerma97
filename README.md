@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rajneesh</h1>
+<h1 align="center">Hi 👋, I'm Rajneesh Verma from Nit Warangal</h1>
 <img align="center" alt="Cover" src="<YOUR_COVER_PICTURE_URL>" />
 
 <h3 align="center">A passionate software developer who works with Next.js, MongoDB, Prisma, Firebase, React, and more!</h3>
