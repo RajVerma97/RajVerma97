@@ -15,7 +15,7 @@
 - 🌱 I’m learning **cloud computing, advanced React, and GraphQL**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, React, Next.js, and MongoDB**
-- 📫 Reach me at **[rajneesh.verma97@gmail.com](mailto:rajneeshkumar2545@gmail.com)**
+- 📫 Reach me at **[rajneeshkumar2545@gmail.com](mailto:rajneeshkumar2545@gmail.com)**
 
 ---
 
