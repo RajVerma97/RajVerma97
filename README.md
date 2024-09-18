@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/RajVerma97"><img src="https://komarev.com/ghpvc/?username=RajVerma97&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
   <a href="https://github.com/RajVerma97?tab=followers"><img src="https://img.shields.io/github/followers/RajVerma97?label=Followers&style=social" alt="Followers" /></a>
-</p>
+ </p>
 
 ---
 
