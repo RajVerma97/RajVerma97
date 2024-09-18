@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm  Rajneesh Verma from NIT WARANGAL </h1>
-<img align="center" alt="Cover" src="https://wallpapercave.com/wp/HAupKqT.jpg" />
+
 
 <h3 align="center">A passionate software developer working with Next.js, MongoDB, Prisma, Firebase, React, and more!</h3>
 
@@ -41,12 +41,8 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajVerma97&theme=dark&no-frame=false&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
 
----
+
 
 ### 🌟 Projects:
 <p align="center">
@@ -58,22 +54,7 @@
 
 ---
 
-### 🎵 Favorite Spotify Tracks:
-<p align="center">
-  <a href="https://open.spotify.com/track/1dfA3d0cJYq8Z5A9knVpKM" target="_blank">
-    <img src="https://m.media-amazon.com/images/M/MV5BMzM4NjZjNDItMTA2Yi00Mjg2LWFhNTgtYjAzZDAyMDFkOTJlXkEyXkFqcGc@._V1_QL75_UX1640_.jpg" alt="Perfect by Ed Sheeran" width="400" height="200" />
-    <br />
-    <strong>Perfect</strong> by Ed Sheeran
-  </a>
-  <br><br>
-  <a href="https://open.spotify.com/track/1GrMSlJ91VGigQ5rU6J1o0" target="_blank">
-    <img src="https://wallpapercave.com/wp/wp4859318.jpg" width="400" height="200" />
-    <br />
-    <strong>We don't talk anymore</strong> byCharlie Puth
-  </a>
-</p>
 
----
 
 ### 🔗 Let's Connect
 <p align="left">
