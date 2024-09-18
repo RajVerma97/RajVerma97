@@ -69,7 +69,7 @@
   <a href="https://open.spotify.com/track/1GrMSlJ91VGigQ5rU6J1o0" target="_blank">
     <img src="https://wallpapercave.com/wp/wp4859318.jpg" width="400" height="200" />
     <br />
-    <strong>We don't talk anymore</strong> by Charlie Puth
+    <strong>We don't talk anymore</strong> byCharlie Puth
   </a>
 </p>
 
