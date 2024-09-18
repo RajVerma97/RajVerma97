@@ -75,7 +75,7 @@
 
 ---
 
-### 🔗 Let's Connect:
+### 🔗 Let's Connect
 <p align="left">
   <a href="https://linkedin.com/in/rajneesh-verma" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40" /></a>
   <a href="https://twitter.com/rajneeshverma97" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" width="40" height="40" /></a>
