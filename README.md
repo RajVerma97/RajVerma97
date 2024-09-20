@@ -43,7 +43,6 @@
 
 
 
-
 ### 🌟 Projects:
 <p align="center">
   <a href="https://github.com/RajVerma97/stock-glimpse" target="_blank">
