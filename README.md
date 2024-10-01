@@ -1,61 +1,40 @@
-<h1 align="center"> Hi, I'm  Rajneesh Verma from NIT WARANGAL</h1>
-
-
-
-<h3 align="center">A passionate software developer working with Next.js, MongoDB, Prisma, Firebase, React, and more!</h3>
-
 <p align="center">
-  <a href="https://github.com/RajVerma97"><img src="https://komarev.com/ghpvc/?username=RajVerma97&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
-  <a href="https://github.com/RajVerma97?tab=followers"><img src="https://img.shields.io/github/followers/RajVerma97?label=Followers&style=social" alt="Followers" /></a>
- </p>
+    <img src="https://github.com/RajVerma97/RajVerma97/assets/91251535/eb712f93-6fe4-4c84-8d05-8e22d29b9a18" alt="gif">
+</p>
 
----
+<h1 align="center">Hi 👋, I'm Rajneesh Verma</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Passionate about Product Management | Open Source Enthusiast</h3>
 
-### 💼 About Me:
-- 🔭 I’m currently working on a **Next.js stock market tracker**
-- 🌱 I’m learning **cloud computing, advanced React, and GraphQL**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **JavaScript, React, Next.js, and MongoDB**
-- 📫 Reach me at **[rajneeshkumar2545@gmail.com](mailto:rajneeshkumar2545@gmail.com)**
+[![Holopin Badges](https://holopin.me/rajverma97)](https://holopin.io/@rajverma97)
 
----
+- 🔭 Currently working on exciting **Next.js** projects, especially in stock market tracking and web development.
+- 🌱 Deepening my knowledge in **Cloud Computing** and **ReactJS** for building scalable applications.
+- 👯 Open to collaborating on **Web Development** projects and **Open Source** contributions.
+- 🤝 Always looking for mentorship in **Full-Stack Development** and guidance for transitioning into **Product Management**.
+- 💬 Let's talk about technology trends, coding best practices, and product strategies.
+- 📫 You can reach me on [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rajneesh_verma97) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rajverma97/) – I'm always happy to connect!
+- ⚡ Fun fact: Alongside coding, I love playing the guitar and have a keen interest in stock market analysis.
 
-### 🚀 Skills & Technologies:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40" /></a>
+<a href="https://twitter.com/rajneesh_verma97" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/rajverma97/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="https://instagram.com/raj_verma97" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </p>
 
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajVerma97&show_icons=true&locale=en&theme=dark" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajVerma97&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajVerma97&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
----
-
-
-
-### 🌟 Projects:
-<p align="center">
-  <a href="https://github.com/RajVerma97/stock-glimpse" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RajVerma97&repo=stock-glimpse&theme=dark" alt="Stock Glimpse Project" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,prisma,mongodb,postgres,sqlite,tailwind,js,cpp,java,html,css,git,github,figma,vscode,bash,docker&perline=10" />
   </a>
-
 </p>
 
+<br>
 
-### 🔗 Let's Connect
-<p align="left">
-  <a href="https://linkedin.com/in/rajneesh-verma" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40" /></a>
-  <a href="https://twitter.com/rajneeshverma97" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" width="40" height="40" /></a>
-  <a href="mailto:rajneesh.verma97@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40" /></a>
-</p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RajVerma97&theme=radical&hide_rank=false&show_icons=true&include_all_commits=true" alt="RajVerma97 Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajVerma97&show_icons=true&locale=en&layout=compact&theme=radical" alt="RajVerma97 Top Languages" />
+<br>
+<br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RajVerma97&theme=radical" alt="RajVerma97 Coding Activity" />
+</div>
