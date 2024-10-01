@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rajneesh Verma</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Passionate about Product Management | Open Source Enthusiast</h3>
 
-[![Holopin Badges](https://holopin.me/rajverma97)](https://holopin.io/@rajverma97)
+
 
 - 🔭 Currently working on exciting **Next.js** projects, especially in stock market tracking and web development.
 - 🌱 Deepening my knowledge in **Cloud Computing** and **ReactJS** for building scalable applications.
@@ -31,10 +31,15 @@
 
 <br>
 
+<h3 align="left">GitHub Stats </h3>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RajVerma97&theme=radical&hide_rank=false&show_icons=true&include_all_commits=true" alt="RajVerma97 Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajVerma97&show_icons=true&locale=en&layout=compact&theme=radical" alt="RajVerma97 Top Languages" />
-<br>
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajVerma97&show_icons=true&locale=en&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajVerma97&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajVerma97&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RajVerma97&theme=radical" alt="RajVerma97 Coding Activity" />
 </div>
