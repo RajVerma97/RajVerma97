@@ -41,5 +41,5 @@
 </p>
 
 <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RajVerma97&theme=radical" alt="RajVerma97 Coding Activity" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RajVerma97&theme=dark" alt="RajVerma97 Coding Activity" />
 </div>
