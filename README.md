@@ -12,7 +12,6 @@
 - 👯 Open to collaborating on **Web Development** projects and **Open Source** contributions.
 - 🤝 Always looking for mentorship in **Full-Stack Development** and guidance for transitioning into **Product Management**.
 - 💬 Let's talk about technology trends, coding best practices, and product strategies.
-- 📫 You can reach me on [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/rajneesh_verma97) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rajverma97/) – I'm always happy to connect!
 - ⚡ Fun fact: Alongside coding, I love playing the guitar and have a keen interest in stock market analysis.
 
 <h3 align="left">Connect with me:</h3>
