@@ -1,6 +1,4 @@
-<p align="center">
-    <img src="https://github.com/RajVerma97/RajVerma97/assets/91251535/eb712f93-6fe4-4c84-8d05-8e22d29b9a18" alt="gif">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Rajneesh Verma</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Passionate about Product Management | Open Source Enthusiast</h3>
