@@ -17,9 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajneesh_verma97" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/rajverma97/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-<a href="https://instagram.com/raj_verma97" target="blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+<a href="https://x.com/RajVerma885633" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/rajneesh-verma-026b141b7/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
