@@ -1,9 +1,8 @@
+[![@rajverma97's Holopin board](https://holopin.me/rajverma97)](https://holopin.io/@rajverma97#badges)
 
 
 <h1 align="center">Hi 👋, I'm Rajneesh Verma</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Passionate about Product Management | Open Source Enthusiast</h3>
-
-
 
 - 🔭 Currently working on exciting **Next.js** projects, especially in stock market tracking and web development.
 - 🌱 Deepening my knowledge in **Cloud Computing** and **ReactJS** for building scalable applications.
@@ -27,7 +26,7 @@
 
 <br>
 
-<h3 align="left">GitHub Stats </h3>
+<h3 align="left">GitHub Stats</h3>
 <div align="center">
  
 <p align="center">
@@ -39,3 +38,13 @@
 <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RajVerma97&theme=dark" alt="RajVerma97 Coding Activity" />
 </div>
+
+<h3 align="left">🏆 Holofin Badges:</h3>
+<p align="left">
+  <img src="https://www.holopin.io/userbadge/cm28ytcvb14920ckz9d7tmser" alt="Holofin Badge 1" width="100" />
+  <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm1qvjp6w02680cjun6x21zla" alt="Holofin Badge 2" width="100" />
+  <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm21u60kw266220ckwk0m61cfg" alt="Holofin Badge 3" width="100" />
+  <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm228d5zo581100dk39j4udvwx" alt="Holofin Badge 4" width="100" />
+  <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm28yo45o22680cmm0ecxa10i" alt="Holofin Badge 5" width="100" />
+  <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm28yo43422620cmmfo6ujkb2" alt="Holofin Badge 6" width="100" />
+</p>
