@@ -39,12 +39,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RajVerma97&theme=dark" alt="RajVerma97 Coding Activity" />
 </div>
 
-<h3 align="left">🏆 Holofin Badges:</h3>
-<p align="left">
-  <img src="https://www.holopin.io/userbadge/cm28ytcvb14920ckz9d7tmser" alt="Holofin Badge 1" width="100" />
-  <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm1qvjp6w02680cjun6x21zla" alt="Holofin Badge 2" width="100" />
-  <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm21u60kw266220ckwk0m61cfg" alt="Holofin Badge 3" width="100" />
-  <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm228d5zo581100dk39j4udvwx" alt="Holofin Badge 4" width="100" />
-  <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm28yo45o22680cmm0ecxa10i" alt="Holofin Badge 5" width="100" />
-  <img src="https://www.holopin.io/hacktoberfest2024/userbadge/cm28yo43422620cmmfo6ujkb2" alt="Holofin Badge 6" width="100" />
-</p>
+
