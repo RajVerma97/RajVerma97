@@ -1,8 +1,8 @@
 [![@rajverma97's Holopin board](https://holopin.me/rajverma97)](https://holopin.io/@rajverma97#badges)
 
 
-<h1 align="center">Hi 👋, I'm  Rajneesh kumar</h1>
-<h3 align="center">Aspiring Full-Stack Developer |  Passionate about Product Management | Open Source Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm  Rajneesh Verma</h1>
+<h3 align="center">Full-Stack Developer | Open Source Enthusiast</h3>
 
 - 🔭 Currently working on exciting **Next.js** projects, especially in stock market tracking and web development.
 - 🌱 Deepening my knowledge in **Cloud Computing** and **ReactJS** for building scalable applications.
