@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,prisma,mongodb,postgres,sqlite,tailwind,js,cpp,java,html,css,git,github,figma,vscode,bash,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=go,kubernetes,ts,nextjs,react,nodejs,prisma,mongodb,postgres,sqlite,tailwind,js,cpp,java,html,css,git,github,figma,vscode,bash,docker&perline=10" />
   </a>
 </p>
 
