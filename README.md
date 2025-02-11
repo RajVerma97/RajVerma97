@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm  Rajneesh Verma</h1>
 <h3 align="center">Full-Stack Developer | Open Source Enthusiast</h3>
 
-- 🔭 Currently working on exciting **Next.js** projects, especially in stock market tracking and web development.
+- 🔭 Currently working on exciting **Golang** projects.
 - 🌱 Deepening my knowledge in **Cloud Computing** and **ReactJS** for building scalable applications.
 - 👯 Open to collaborating on **Web Development** projects and **Open Source** contributions.
 - 🤝 Always looking for mentorship in **Full-Stack Development** and guidance for transitioning into **Product Management**.
