@@ -1,15 +1,18 @@
 [![@rajverma97's Holopin board](https://holopin.me/rajverma97)](https://holopin.io/@rajverma97#badges)
 
  
-<h1 align="center">Hi 👋, I'm  Rajneesh Verma</h1>
-<h3 align="center">Full-Stack Developer | Open Source Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Rajneesh Verma</h1>
+<h3 align="center">Generative AI Developer | LLMs • LangChain • Vector Databases</h3>
 
-- 🔭 Currently working on exciting **Golang** projects.
-- 🌱 Deepening my knowledge in **Cloud Computing** and **ReactJS** for building scalable applications.
-- 👯 Open to collaborating on **Web Development** projects and **Open Source** contributions.
-- 🤝 Always looking for mentorship in **Full-Stack Development** and guidance for transitioning into **Product Management**.
-- 💬 Let's talk about technology trends, coding best practices, and product strategies.
-- ⚡ Fun fact: Alongside coding, I love playing the guitar and have a keen interest in stock market analysis.
+- 🤖 Currently building **Generative AI applications**, including **LLM-powered agents** and **AI automation tools**.
+- 🌱 Deepening my expertise in **Large Language Models (LLMs)**, **LangChain**, and **Vector Databases** for building production-grade AI systems.
+- 🧠 Working with **Python, FastAPI, Golang**, and modern **GenAI frameworks**.
+- 🔍 Designing **RAG pipelines** using **vector databases** (Pinecone / FAISS / Chroma).
+- 🎙️ Exploring **Voice AI**, **real-time conversational agents**, and **tool-using AI systems**.
+- 👯 Open to collaborating on **Generative AI**, **AI Agents**, and **Open Source** projects.
+- 🤝 Focused on combining **AI engineering** with **product thinking** to build impactful solutions.
+- 💬 Let’s talk about **GenAI trends**, **LLM optimization**, **RAG architectures**, and **AI product design**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,9 +23,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,kubernetes,docker,rabbitmq,kafka,ts,react,nodejs,mongodb,postgres&perline=10" />
+    <img
+      src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,pytorch,tensorflow,redis,docker,kubernetes&perline=5"
+    />
   </a>
 </p>
+
+
 
 <br>
 
@@ -32,11 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RajVerma97&show_icons=true&locale=en&theme=dark" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajVerma97&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RajVerma97&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-
-<br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=RajVerma97&theme=dark" alt="RajVerma97 Coding Activity" />
-</div>
 
 
