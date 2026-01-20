@@ -5,26 +5,17 @@
 <h3 align="center">Golang| Generative AI</h3>
 
 - 🤖 Currently building **Generative AI applications**, including **LLM-powered agents** and **AI automation tools**.
+- 🪈 Expertise in Microservices, gRPC, Postgresql
 - 🌱 Deepening my expertise in **Large Language Models (LLMs)**, **LangChain**, and **Vector Databases** for building production-grade AI systems.
 - 🧠 Working with **Golang,Python**, and modern **GenAI frameworks**.
 - 🔍 Designing **RAG pipelines** using **vector databases** (Pinecone / FAISS / Chroma).
-- 🎙️ Exploring **Voice AI**, **real-time conversational agents**, and **tool-using AI systems**.
-- 👯 Open to collaborating on **Generative AI**, **AI Agents**, and **Open Source** projects.
-- 🤝 Focused on combining **AI engineering** with **product thinking** to build impactful solutions.
-- 💬 Let’s talk about **GenAI trends**, **LLM optimization**, **RAG architectures**, and **AI product design**.
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/RajVerma885633" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/rajneesh-verma-026b141b7/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img
-      src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,pytorch,tensorflow,redis,docker,kubernetes&perline=5"
+      src="https://skillicons.dev/icons?i=golang,python,fastapi,django,postgres,pytorch,tensorflow,redis,docker,kubernetes&perline=5"
     />
   </a>
 </p>
