@@ -2,7 +2,7 @@
 
  
 <h1 align="center">Hi 👋, I'm Rajneesh Verma</h1>
-<h3 align="center">Golang| Generative AI Developer | LLMs • LangChain • Vector Databases</h3>
+<h3 align="center">Golang| Generative AI</h3>
 
 - 🤖 Currently building **Generative AI applications**, including **LLM-powered agents** and **AI automation tools**.
 - 🌱 Deepening my expertise in **Large Language Models (LLMs)**, **LangChain**, and **Vector Databases** for building production-grade AI systems.
